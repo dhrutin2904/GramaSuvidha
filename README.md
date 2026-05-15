@@ -1,24 +1,19 @@
-# 🏛️ Grama-Suvidha Portal
+# Grama-Suvidha: Rural Infrastructure Transparency Portal
 
-> **Rural Infrastructure Transparency Portal** — An Android app that brings digital transparency to village-level government projects.
+**Grama-Suvidha** (ಗ್ರಾಮ ಸುವಿಧಾ) is a premium, Material Design 3-based Android application designed to bring complete digital transparency to village-level government projects. It bridges the gap between citizens and administration by providing real-time tracking of local infrastructure development.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Android](https://img.shields.io/badge/Platform-Android-blue.svg)](https://developer.android.com)
-[![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org)
-[![Material Design 3](https://img.shields.io/badge/UI-Material%20Design%203-teal.svg)](https://m3.material.io)
+[![View Live Project Website](https://img.shields.io/badge/VIEW-LIVE_PROJECT_WEBSITE-7b61ff?style=for-the-badge)](https://github.com/dhrutin2904/GramaSuvidha) [![Download Latest APK](https://img.shields.io/badge/DOWNLOAD-LATEST_APK-ff4b82?style=for-the-badge)](https://github.com/dhrutin2904/GramaSuvidha/releases)
 
 ---
 
-## 📋 Overview
+## 🌟 Key Features
 
-Grama-Suvidha is a transparency-focused project tracker for rural areas. It allows every villager to stay informed about government-funded projects in their locality — showing budgets, expected completion dates, current status, and progress updates. The app creates a **"Digital Notice Board"** that ensures every citizen knows exactly where development stands.
-
-### ✨ Key Highlights
-- 🔍 **Location-Based Filtering** — Find projects near you using GPS or manual search
-- 🌐 **Bilingual Support** — Full English & Kannada localization
-- 📴 **Offline-First** — Works without internet using local Room database
-- 🔒 **Role-Based Access** — Admin, Citizen, and Guest roles with appropriate permissions
-- 📊 **Real-Time Sync** — Firebase Firestore keeps data up-to-date
+* 📍 **Smart Location Tracking:** Instantly filter and find nearby projects using live GPS or manual search.
+* 📊 **Live Progress Updates:** View budgets, timelines, and real-time completion percentages for ongoing work.
+* 🌍 **Bilingual Accessibility:** Fully localized in both English and Kannada (ಕನ್ನಡ) for broader rural reach.
+* 🗣️ **Citizen Voice (Feedback):** Built-in rating system allowing citizens to report issues directly to admins.
+* 📴 **Offline-First Architecture:** Caches data locally using Room DB, ensuring the app works perfectly even with poor internet connectivity.
+* 🎨 **Material Design 3:** Sleek, modern UI with dynamic theming and smooth animations for a premium user experience.
 
 ---
 
