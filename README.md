@@ -1,5 +1,6 @@
 # Grama-Suvidha: Rural Infrastructure Transparency Portal
 
+[![Android CI](https://github.com/dhrutin2904/GramaSuvidha/actions/workflows/android.yml/badge.svg)](https://github.com/dhrutin2904/GramaSuvidha/actions/workflows/android.yml)
 **Grama-Suvidha** (ಗ್ರಾಮ ಸುವಿಧಾ) is a premium, Material Design 3-based Android application designed to bring complete digital transparency to village-level government projects. It bridges the gap between citizens and administration by providing real-time tracking of local infrastructure development.
 
 <a href="#screenshots"><img src="https://img.shields.io/badge/VIEW-555555?style=for-the-badge" alt="View Screenshots"/></a><a href="https://dhrutin2904.github.io/GramaSuvidha"><img src="https://img.shields.io/badge/LIVE%20PROJECT%20WEBSITE-7b61ff?style=for-the-badge" alt="Live Project Website"/></a>
