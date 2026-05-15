@@ -20,10 +20,10 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/1.jpg" width="220" />
-  <img src="screenshots/2.jpg" width="220" />
-  <img src="screenshots/3.jpg" width="220" />
-  <img src="screenshots/4.jpg" width="220" />
+  <img src="screenshots/1.jpeg" width="220" />
+  <img src="screenshots/2.jpeg" width="220" />
+  <img src="screenshots/3.jpeg" width="220" />
+  <img src="screenshots/4.jpeg" width="220" />
 </div>
 
 ---
