@@ -19,14 +19,12 @@
 
 ## 📱 Screenshots
 
-<!-- Add your screenshots here -->
-<!-- ![Splash Screen](screenshots/splash.png) -->
-<!-- ![Login Screen](screenshots/login.png) -->
-<!-- ![Citizen Dashboard](screenshots/citizen_dashboard.png) -->
-<!-- ![Project Details](screenshots/project_detail.png) -->
-<!-- ![Admin Dashboard](screenshots/admin_dashboard.png) -->
-
-> 📸 *Screenshots will be added soon*
+<div align="center">
+  <img src="screenshots/1.jpg" width="220" />
+  <img src="screenshots/2.jpg" width="220" />
+  <img src="screenshots/3.jpg" width="220" />
+  <img src="screenshots/4.jpg" width="220" />
+</div>
 
 ---
 
