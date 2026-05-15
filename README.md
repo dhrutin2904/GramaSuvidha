@@ -2,7 +2,8 @@
 
 **Grama-Suvidha** (ಗ್ರಾಮ ಸುವಿಧಾ) is a premium, Material Design 3-based Android application designed to bring complete digital transparency to village-level government projects. It bridges the gap between citizens and administration by providing real-time tracking of local infrastructure development.
 
-<a href="#-screenshots"><img src="https://img.shields.io/badge/VIEW-555555?style=for-the-badge" alt="View Screenshots"/></a><a href="https://github.com/dhrutin2904/GramaSuvidha"><img src="https://img.shields.io/badge/LIVE%20PROJECT%20WEBSITE-7b61ff?style=for-the-badge" alt="Live Project Website"/></a> &nbsp;&nbsp; <a href="https://github.com/dhrutin2904/GramaSuvidha/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/DOWNLOAD-555555?style=for-the-badge" alt="Download"/></a><a href="https://github.com/dhrutin2904/GramaSuvidha/releases/tag/v1.0.0"><img src="https://img.shields.io/badge/LATEST%20APK-ff4b82?style=for-the-badge" alt="Latest APK"/></a>
+[![View Website](https://img.shields.io/badge/View-Live_Project_Website-7b61ff?style=for-the-badge)](https://github.com/dhrutin2904/GramaSuvidha)
+[![Download APK](https://img.shields.io/badge/Download-Latest_APK-ff4b82?style=for-the-badge)](https://github.com/dhrutin2904/GramaSuvidha/releases/tag/v1.0.0)
 ---
 
 ## 🌟 Key Features
