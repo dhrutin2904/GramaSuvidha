@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App Name -->
+    <string name="app_name">ಗ್ರಾಮ-ಸುವಿಧಾ</string>
+    <string name="app_tagline">ಗ್ರಾಮೀಣ ಮೂಲಸೌಕರ್ಯ ಪಾರದರ್ಶಕತೆ ಪೋರ್ಟಲ್</string>
+
+    <!-- Login Screen -->
+    <string name="login">ಲಾಗಿನ್</string>
+    <string name="select_role">ನಿಮ್ಮ ಪಾತ್ರವನ್ನು ಆಯ್ಕೆಮಾಡಿ</string>
+    <string name="admin">ನಿರ್ವಾಹಕ</string>
+    <string name="citizen">ನಾಗರಿಕ</string>
+    <string name="admin_login">ನಿರ್ವಾಹಕ ಲಾಗಿನ್</string>
+    <string name="citizen_login">ನಾಗರಿಕ ಲಾಗಿನ್</string>
+    <string name="username">ಬಳಕೆದಾರ ಹೆಸರು</string>
+    <string name="password">ಗುಪ್ತಪದ</string>
+    <string name="phone_number">ಫೋನ್ ಸಂಖ್ಯೆ</string>
+    <string name="enter_otp">OTP ನಮೂದಿಸಿ</string>
+    <string name="send_otp">OTP ಕಳುಹಿಸಿ</string>
+    <string name="verify_otp">OTP ಪರಿಶೀಲಿಸಿ</string>
+    <string name="resend_otp">OTP ಮರುಕಳುಹಿಸಿ</string>
+    <string name="browse_as_guest">ಅತಿಥಿಯಾಗಿ ಬ್ರೌಸ್ ಮಾಡಿ</string>
+    <string name="otp_sent">OTP ಯಶಸ್ವಿಯಾಗಿ ಕಳುಹಿಸಲಾಗಿದೆ!</string>
+    <string name="invalid_credentials">ಅಮಾನ್ಯ ಬಳಕೆದಾರ ಹೆಸರು ಅಥವಾ ಗುಪ್ತಪದ</string>
+    <string name="otp_verification_failed">OTP ಪರಿಶೀಲನೆ ವಿಫಲವಾಗಿದೆ</string>
+
+    <!-- Citizen Panel -->
+    <string name="citizen_panel">ಗ್ರಾಮ-ಸುವಿಧಾ</string>
+    <string name="project_list">ಯೋಜನೆಗಳು</string>
+    <string name="no_projects">ಯಾವುದೇ ಯೋಜನೆಗಳು ಲಭ್ಯವಿಲ್ಲ</string>
+    <string name="pull_to_refresh">ರಿಫ್ರೆಶ್ ಮಾಡಲು ಎಳೆಯಿರಿ</string>
+
+    <!-- Project Detail -->
+    <string name="project_details">ಯೋಜನೆ ವಿವರಗಳು</string>
+    <string name="budget_format">ಬಜೆಟ್: %s</string>
+    <string name="start_date_format">ಆರಂಭ: %s</string>
+    <string name="end_date_format">ನಿರೀಕ್ಷಿತ ಅಂತ್ಯ: %s</string>
+    <string name="location_format">📍 %s</string>
+    <string name="progress_format">%d%% ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="before_image">ಮೊದಲು</string>
+    <string name="after_image">ನಂತರ</string>
+    <string name="give_feedback">ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಿ</string>
+
+    <!-- Feedback -->
+    <string name="feedback">ಪ್ರತಿಕ್ರಿಯೆ</string>
+    <string name="feedback_for">ಪ್ರತಿಕ್ರಿಯೆ: %s</string>
+    <string name="rate_project">ಈ ಯೋಜನೆಯನ್ನು ರೇಟ್ ಮಾಡಿ</string>
+    <string name="report_issue">ಸಮಸ್ಯೆ ವರದಿ ಮಾಡಿ</string>
+    <string name="issue_hint">ನೀವು ಗಮನಿಸಿದ ಸಮಸ್ಯೆಯನ್ನು ವಿವರಿಸಿ…</string>
+    <string name="submit_feedback">ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಿ</string>
+    <string name="please_rate">ದಯವಿಟ್ಟು ಸ್ಟಾರ್ ರೇಟಿಂಗ್ ನೀಡಿ</string>
+    <string name="feedback_submitted">ಪ್ರತಿಕ್ರಿಯೆ ಸಲ್ಲಿಸಲಾಗಿದೆ! ಧನ್ಯವಾದ.</string>
+
+    <!-- Admin Panel -->
+    <string name="admin_dashboard">ನಿರ್ವಾಹಕ ಡ್ಯಾಶ್‌ಬೋರ್ಡ್</string>
+    <string name="total_projects">ಒಟ್ಟು ಯೋಜನೆಗಳು</string>
+    <string name="completed">ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+    <string name="in_progress">ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="add_project">ಹೊಸ ಯೋಜನೆ ಸೇರಿಸಿ</string>
+    <string name="edit_project">ಯೋಜನೆ ತಿದ್ದಿ</string>
+    <string name="delete_project">ಯೋಜನೆ ಅಳಿಸಿ</string>
+    <string name="delete_confirmation">\"%s\" ಅನ್ನು ಅಳಿಸಲು ಖಚಿತವಾಗಿ ಬಯಸುವಿರಾ?</string>
+    <string name="save">ಯೋಜನೆ ಉಳಿಸಿ</string>
+    <string name="cancel">ರದ್ದುಮಾಡಿ</string>
+    <string name="delete">ಅಳಿಸಿ</string>
+
+    <!-- Form Fields -->
+    <string name="project_name">ಯೋಜನೆ ಹೆಸರು</string>
+    <string name="project_type">ಯೋಜನೆ ಪ್ರಕಾರ</string>
+    <string name="budget">ಬಜೆಟ್ (₹)</string>
+    <string name="start_date">ಆರಂಭ ದಿನಾಂಕ (YYYY-MM-DD)</string>
+    <string name="end_date">ನಿರೀಕ್ಷಿತ ಅಂತ್ಯ ದಿನಾಂಕ (YYYY-MM-DD)</string>
+    <string name="description">ವಿವರಣೆ</string>
+    <string name="location">ಸ್ಥಳ</string>
+    <string name="before_image_url">ಮೊದಲಿನ ಚಿತ್ರ URL</string>
+    <string name="after_image_url">ನಂತರದ ಚಿತ್ರ URL</string>
+    <string name="progress_percent">ಪ್ರಗತಿ: %d%%</string>
+
+    <!-- Errors -->
+    <string name="error_required">ಈ ಕ್ಷೇತ್ರ ಅಗತ್ಯ</string>
+    <string name="error_invalid_phone">ಮಾನ್ಯ 10-ಅಂಕಿ ಫೋನ್ ಸಂಖ್ಯೆ ನಮೂದಿಸಿ</string>
+    <string name="error_invalid_otp">ಮಾನ್ಯ 6-ಅಂಕಿ OTP ನಮೂದಿಸಿ</string>
+
+    <!-- Location Filter -->
+    <string name="filter_by_location">ಸ್ಥಳದ ಮೂಲಕ ಫಿಲ್ಟರ್</string>
+    <string name="use_my_location">ನನ್ನ ಸ್ಥಳ ಬಳಸಿ</string>
+    <string name="location_hint">ಹಳ್ಳಿ ಅಥವಾ ಪ್ರದೇಶದ ಹೆಸರು ನಮೂದಿಸಿ…</string>
+    <string name="no_projects_at_location">ಈ ಸ್ಥಳಕ್ಕೆ ಯಾವುದೇ ಯೋಜನೆಗಳು ಕಂಡುಬಂದಿಲ್ಲ</string>
+    <string name="location_permission_denied">ಸ್ಥಳ ಅನುಮತಿ ನಿರಾಕರಿಸಲಾಗಿದೆ</string>
+    <string name="location_not_available">ಪ್ರಸ್ತುತ ಸ್ಥಳವನ್ನು ಪಡೆಯಲು ಸಾಧ್ಯವಾಗಲಿಲ್ಲ</string>
+    <string name="clear_filter">ಫಿಲ್ಟರ್ ತೆರವುಗೊಳಿಸಿ</string>
+    <string name="fetching_location">ಸ್ಥಳವನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ…</string>
+    <string name="all_projects">ಎಲ್ಲಾ ಯೋಜನೆಗಳು</string>
+    <string name="showing_projects_for">ಯೋಜನೆಗಳು: %s</string>
+
+    <!-- Guest -->
+    <string name="guest_feedback_disabled">ಪ್ರತಿಕ್ರಿಯೆ ನೀಡಲು ದಯವಿಟ್ಟು ಲಾಗಿನ್ ಮಾಡಿ</string>
+
+    <!-- Localized Project Statuses -->
+    <string name="status_not_started">ಪ್ರಾರಂಭವಾಗಿಲ್ಲ</string>
+    <string name="status_in_progress">ಪ್ರಗತಿಯಲ್ಲಿದೆ</string>
+    <string name="status_completed">ಪೂರ್ಣಗೊಂಡಿದೆ</string>
+
+    <!-- Localized Project Types -->
+    <string name="type_road">ರಸ್ತೆ</string>
+    <string name="type_borewell">ಕೊಳವೆಬಾವಿ</string>
+    <string name="type_hall">ಸಭಾಂಗಣ</string>
+    <string name="type_bridge">ಸೇತುವೆ</string>
+    <string name="type_electricity">ವಿದ್ಯುತ್</string>
+    <string name="type_education">ಶಿಕ್ಷಣ</string>
+    <string name="type_sanitation">ನೈರ್ಮಲ್ಯ</string>
+    <string name="type_healthcare">ಆರೋಗ್ಯ ರಕ್ಷಣೆ</string>
+    <string name="type_irrigation">ನೀರಾವರಿ</string>
+    <string name="type_other">ಇತರೆ</string>
+
+    <!-- General -->
+    <string name="logout">ಲಾಗ್ಔಟ್</string>
+    <string name="language">ಭಾಷೆ</string>
+    <string name="loading">ಲೋಡ್ ಆಗುತ್ತಿದೆ…</string>
+    <string name="offline_mode">ಆಫ್‌ಲೈನ್ ಮೋಡ್</string>
+</resources>

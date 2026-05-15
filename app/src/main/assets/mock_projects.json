@@ -1,0 +1,100 @@
+{
+  "projects": [
+    {
+      "id": "001",
+      "name": "Main Road Repair",
+      "type": "Road",
+      "budget": 500000,
+      "start_date": "2024-01-01",
+      "end_date": "2024-06-01",
+      "progress": 75,
+      "status": "In Progress",
+      "description": "Repair and resurfacing of the main village road connecting Halasuru to the state highway. Includes drainage improvements and speed breakers.",
+      "location": "Halasuru Village",
+      "images": {
+        "before": "https://images.unsplash.com/photo-1515162816999-a0c47dc192f7?w=400",
+        "after": "https://images.unsplash.com/photo-1584464491033-06628f3a6b7b?w=400"
+      }
+    },
+    {
+      "id": "002",
+      "name": "Community Borewell Installation",
+      "type": "Borewell",
+      "budget": 200000,
+      "start_date": "2024-02-15",
+      "end_date": "2024-04-15",
+      "progress": 100,
+      "status": "Completed",
+      "description": "Installation of a 300ft deep borewell with motor pump and overhead tank to provide clean drinking water to 150 households.",
+      "location": "Kengeri Gram Panchayat",
+      "images": {
+        "before": "https://images.unsplash.com/photo-1594398901394-4e34939a02eb?w=400",
+        "after": "https://images.unsplash.com/photo-1581244277943-fe4a9c777189?w=400"
+      }
+    },
+    {
+      "id": "003",
+      "name": "Gram Panchayat Community Hall",
+      "type": "Hall",
+      "budget": 1500000,
+      "start_date": "2024-03-01",
+      "end_date": "2024-12-31",
+      "progress": 40,
+      "status": "In Progress",
+      "description": "Construction of a multi-purpose community hall with capacity for 200 people. Includes stage, seating, restrooms, and kitchen facility.",
+      "location": "Ramanagara Taluk",
+      "images": {
+        "before": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=400",
+        "after": "https://images.unsplash.com/photo-1486406146926-c627a92ad1ab?w=400"
+      }
+    },
+    {
+      "id": "004",
+      "name": "Village Bridge Construction",
+      "type": "Bridge",
+      "budget": 2500000,
+      "start_date": "2024-01-15",
+      "end_date": "2024-09-30",
+      "progress": 60,
+      "status": "In Progress",
+      "description": "Construction of a reinforced concrete bridge over the seasonal river to ensure year-round connectivity for 5 neighboring villages.",
+      "location": "Channapatna Area",
+      "images": {
+        "before": "https://images.unsplash.com/photo-1545558014-8692077e9b5c?w=400",
+        "after": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?w=400"
+      }
+    },
+    {
+      "id": "005",
+      "name": "Solar Street Lights Installation",
+      "type": "Electricity",
+      "budget": 350000,
+      "start_date": "2024-04-01",
+      "end_date": "2024-05-31",
+      "progress": 0,
+      "status": "Not Started",
+      "description": "Installation of 50 solar-powered LED street lights along the main village roads and common areas for improved safety and visibility.",
+      "location": "Magadi Town",
+      "images": {
+        "before": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=400",
+        "after": "https://images.unsplash.com/photo-1558618666-fcd25c85f82e?w=400"
+      }
+    },
+    {
+      "id": "006",
+      "name": "Primary School Renovation",
+      "type": "Education",
+      "budget": 800000,
+      "start_date": "2024-05-01",
+      "end_date": "2024-08-31",
+      "progress": 25,
+      "status": "In Progress",
+      "description": "Renovation of the village primary school including new classrooms, library, computer lab, and playground equipment.",
+      "location": "Doddaballapur",
+      "images": {
+        "before": "https://images.unsplash.com/photo-1580582932707-520aed937b7b?w=400",
+        "after": "https://images.unsplash.com/photo-1562774053-701939374585?w=400"
+      }
+    }
+  ]
+}

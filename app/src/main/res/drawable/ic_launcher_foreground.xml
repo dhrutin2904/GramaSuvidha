@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- White house/building icon representing Gram Panchayat -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,20 L20,50 L30,50 L30,85 L45,85 L45,65 L63,65 L63,85 L78,85 L78,50 L88,50 Z" />
+    <path
+        android:fillColor="#A5D6A7"
+        android:pathData="M45,65 L63,65 L63,85 L45,85 Z" />
+</vector>

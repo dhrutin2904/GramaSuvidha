@@ -1,0 +1,73 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+release/
+
+# Gradle files
+.gradle/
+build/
+app/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Android Studio
+*.iml
+.idea/
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/misc.xml
+.idea/compiler.xml
+.idea/jarRepositories.xml
+.idea/vcs.xml
+
+# Keystore files
+*.jks
+*.keystore
+
+# Google Services (contains API keys)
+# Uncomment the line below if you don't want to share your google-services.json
+# app/google-services.json
+
+# External native build folder generated in Android Studio 2.2 and later
+.externalNativeBuild/
+.cxx/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# Log files
+*.log
+build_log.txt
+
+# Captures (screenshots from Android Studio)
+captures/
+
+# IntelliJ
+*.iws
+
+# NDK
+obj/
+
+# Proguard
+app/proguard-rules.pro

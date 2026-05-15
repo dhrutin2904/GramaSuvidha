@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors - Deep Green (Government/Nature) -->
+    <color name="primary">#1B5E20</color>
+    <color name="primary_dark">#0D3B0F</color>
+    <color name="primary_light">#4CAF50</color>
+
+    <!-- Secondary Colors - Warm Amber -->
+    <color name="secondary">#FF8F00</color>
+    <color name="secondary_dark">#C56200</color>
+    <color name="secondary_light">#FFC046</color>
+
+    <!-- Surface Colors -->
+    <color name="surface">#FAFAFA</color>
+    <color name="on_surface">#1C1B1F</color>
+    <color name="surface_variant">#F0F4F0</color>
+
+    <!-- Basic Colors -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="grey_light">#E0E0E0</color>
+    <color name="grey_medium">#9E9E9E</color>
+    <color name="grey_dark">#616161</color>
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+
+    <!-- Status Colors -->
+    <color name="status_completed">#2E7D32</color>
+    <color name="status_in_progress">#F57F17</color>
+    <color name="status_not_started">#C62828</color>
+
+    <!-- Progress Bar Colors -->
+    <color name="progress_track">#E0E0E0</color>
+    <color name="progress_indicator">#4CAF50</color>
+
+    <!-- Dashboard Card Colors -->
+    <color name="card_total">#1565C0</color>
+    <color name="card_completed">#2E7D32</color>
+    <color name="card_in_progress">#E65100</color>
+
+    <!-- Splash gradient -->
+    <color name="splash_start">#1B5E20</color>
+    <color name="splash_end">#4CAF50</color>
+</resources>
